@@ -3,7 +3,11 @@ RENCANA BELAJAR REBKA
 - Belajar Javascript
   * ES6
   * Framework Javascript
+    ^ Vue
 - Struktur Data Dasar
+- PHP Frameworks 
+  ^ Laravel
 - Belajar PHP 
 - Interview
 - Vlogs 
+- Phyton
