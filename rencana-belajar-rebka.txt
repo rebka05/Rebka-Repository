@@ -8,7 +8,6 @@ RENCANA BELAJAR REBKA
 - Struktur Data Dasar
 - PHP Frameworks 
   ^ Laravel
-- Belajar PHP 
 - Interview
 - Vlogs 
 - Phyton
