@@ -3,6 +3,7 @@ RENCANA BELAJAR REBKA
 - Belajar Javascript
   * ES6
   * Framework Javascript
+- Struktur Data Dasar
 - Belajar PHP 
 - Interview
 - Vlogs 
